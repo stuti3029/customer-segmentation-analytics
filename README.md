@@ -68,7 +68,7 @@ Read the [business recommendations](documentation/business_recommendations.md).
 ## Files and reproducibility
 
 - [`images/`](images/) — exported analysis visuals.
-- [`analysis/methodology.md`](analysis/methodology.md) — analysis design, variables, statistical methods and limitations.
+- [`Analysis/methodology.md`](Analysis/methodology.md) — analysis design, variables, statistical methods and limitations.
 - [`documentation/business_recommendations.md`](documentation/business_recommendations.md) — decision-oriented recommendations and proposed evaluation KPIs.
 
 **Reproducibility note:** This is currently a **documented SPSS analysis**, not a fully reproducible code repository. If the permitted dataset and SPSS syntax are recovered, they can be added; any future Python/SQL implementation should be clearly labelled a separate reanalysis.
