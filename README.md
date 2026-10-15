@@ -38,12 +38,6 @@ See [methodology](analysis/methodology.md) for additional details and limitation
 
 ## Results and visuals
 
-### Customer segmentation
-
-![Two customer segments](images/customer_segments.png)
-
-The analysis distinguishes a more digitally engaged, higher-spending segment from a less-engaged, more traditional purchasing segment.
-
 ### Rental intention
 
 ![Rental intention comparison](images/rental_intention.png)
